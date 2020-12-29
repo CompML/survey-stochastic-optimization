@@ -29,3 +29,5 @@
 
 ### Optimizers for Deep Neural Networks
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
+* [ ] Zhuang, Juntang, Tommy Tang, Yifan Ding, Sekhar C. Tatikonda, Nicha Dvornek, Xenophon Papademetris, and James Duncan. 2020. “Adabelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.” Advances in Neural Information Processing Systems 33. https://papers.nips.cc/paper/2020/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf.
+* [ ] Zou, Fangyu, Li Shen, Zequn Jie, Weizhong Zhang, and Wei Liu. 2019. “A Sufficient Condition for Convergences of Adam and Rmsprop.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 11127–35. openaccess.thecvf.com.
