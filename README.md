@@ -30,6 +30,8 @@
 ### Optimizers for Deep Neural Networks
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
 * [ ] Zhuang, Juntang, Tommy Tang, Yifan Ding, Sekhar C. Tatikonda, Nicha Dvornek, Xenophon Papademetris, and James Duncan. 2020. “Adabelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.” Advances in Neural Information Processing Systems 33. https://papers.nips.cc/paper/2020/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf.
-* [ ] Zou, Fangyu, Li Shen, Zequn Jie, Weizhong Zhang, and Wei Liu. 2019. “A Sufficient Condition for Convergences of Adam and Rmsprop.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 11127–35. openaccess.thecvf.com.
+* [X] Zou, Fangyu, Li Shen, Zequn Jie, Weizhong Zhang, and Wei Liu. 2019. “A Sufficient Condition for Convergences of Adam and Rmsprop.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 11127–35. openaccess.thecvf.com.
 * [ ] Zhang, Z. 2018. “Improved Adam Optimizer for Deep Neural Networks.” In 2018 IEEE/ACM 26th International Symposium on Quality of Service (IWQoS), 1–2. ieeexplore.ieee.org.
+* [ ] Sashank J. Reddi, Satyen Kale, and Sanjiv Kumar. On the convergence of Adam and beyond. In International Conference on Learning Representations, 2018.
+* [ ] Dongruo Zhou, Yiqi Tang, Ziyan Yang, Yuan Cao, and Quanquan Gu. On the convergence of adaptive gradient methods for nonconvex optimization. arXiv preprint arXiv:1808.05671, 2018.
 * [ ] Kingma, D. and Ba, J. (2015) Adam A Method for Stochastic Optimization. Proceedings of the 3rd International Conference on Learning Representations (ICLR 2015).
