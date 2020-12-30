@@ -33,6 +33,7 @@
 * [ ] Bécigneul, Gary, and Octavian-Eugen Ganea. 2018. “Riemannian Adaptive Optimization Methods.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/1810.00760.
 * [ ] Zhang, Jingzhao, Hongyi Zhang, and Suvrit Sra. 2018. “R-SPIDER: A Fast Riemannian Stochastic Optimization Algorithm with Curvature Independent Rate.” arXiv [math.OC]. arXiv. http://arxiv.org/abs/1811.04194.
 * [X] Zhang, Hongyi, Sashank J. Reddi, and Suvrit Sra. 2016. “Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds.” In Advances in Neural Information Processing Systems, edited by D. Lee, M. Sugiyama, U. Luxburg, I. Guyon, and R. Garnett, 29:4592–4600. Curran Associates, Inc.
+* [ ] Zhang, Hongyi, and Suvrit Sra. 2016. “First-Order Methods for Geodesically Convex Optimization.” In Conference on Learning Theory, 1617–38. PMLR.
 * [ ] Udriste, C. 2013. Convex Functions and Optimization Methods on Riemannian Manifolds. Springer Science & Business Media.
 * [ ] Bonnabel, S. 2013. “Stochastic Gradient Descent on Riemannian Manifolds.” IEEE Transactions on Automatic Control 58 (9): 2217–29.
 * [ ] Absil, P-A, R. Mahony, and Rodolphe Sepulchre. 2009. Optimization Algorithms on Matrix Manifolds. Princeton University Press.
