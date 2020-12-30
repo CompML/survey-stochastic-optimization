@@ -40,6 +40,7 @@
 
 ### Meta-Algorithm for Stochastic Optimization
 * [ ] Diakonikolas, Ilias, Gautam Kamath, Daniel Kane, Jerry Li, Jacob Steinhardt, and Alistair Stewart. 2019. “Sever: A Robust Meta-Algorithm for Stochastic Optimization.” In Proceedings of the 36th International Conference on Machine Learning, edited by Kamalika Chaudhuri and Ruslan Salakhutdinov, 97:1596–1606. Proceedings of Machine Learning Research. Long Beach, California, USA: PMLR.
+* [ ] Eftimov, Tome, and Peter Korošec. 2019. “Identifying Practical Significance through Statistical Comparison of Meta-Heuristic Stochastic Optimization Algorithms.” Applied Soft Computing 85 (December): 105862.
 
 ### Optimizers for Deep Neural Networks
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
