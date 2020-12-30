@@ -27,6 +27,9 @@
 * [X] Y. You, Z. Zhang, C.-J. Hsieh, J. Demmel, and K. Keutzer. “ImageNet training in minutes”. In: Proc. of the 47th International Conference on Parallel Processing. 2018
 * [ ] Y. You, I. Gitman, and B. Ginsburg. “Scaling SGD batch size to 32K for Imagenet training”. Technical Report UCB/EECS-2017-156, University of California, Berkeley, 2017
 
+### Stochastic Optimization on Riemannian Manifolds
+* [ ] Zhang, Hongyi, Sashank J. Reddi, and Suvrit Sra. 2016. “Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds.” In Advances in Neural Information Processing Systems, edited by D. Lee, M. Sugiyama, U. Luxburg, I. Guyon, and R. Garnett, 29:4592–4600. Curran Associates, Inc.
+
 ### Optimizers for Deep Neural Networks
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
 * [ ] Zhuang, Juntang, Tommy Tang, Yifan Ding, Sekhar C. Tatikonda, Nicha Dvornek, Xenophon Papademetris, and James Duncan. 2020. “Adabelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.” Advances in Neural Information Processing Systems 33. https://papers.nips.cc/paper/2020/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf.
