@@ -7,6 +7,7 @@
 ## Awesome Stochastic Optimization
 
 ### Parameter-free Optimization for Deep Learning
+* [ ] Cutkosky, Ashok. 2020. “Parameter-Free, Dynamic, and Strongly-Adaptive Online Learning.” In Proceedings of the 37th International Conference on Machine Learning, edited by Hal Daumé Iii and Aarti Singh, 119:2250–59. Proceedings of Machine Learning Research. Virtual: PMLR.
 * [ ] A. Cutkosky and T. Sarlos. “Matrix-Free Preconditioning in Online Learning”. In: Proc. of International Conference on Machine Learning. 2019
 * [X] F. Orabona and T. Tommasi. “Training Deep Networks without Learning Rates Through Coin Betting”. In: Advances in Neural Information Processing Systems 30. 2017
 * [ ] A. Cutkosky and K. A. Boahen. “Online Convex Optimization with Unconstrained Domains and Losses”. In: Advances in Neural Information Processing Systems 29. 2016, pp. 748–756
