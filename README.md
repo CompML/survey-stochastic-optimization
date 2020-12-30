@@ -38,6 +38,9 @@
 * [ ] Bonnabel, S. 2013. “Stochastic Gradient Descent on Riemannian Manifolds.” IEEE Transactions on Automatic Control 58 (9): 2217–29.
 * [ ] Absil, P-A, R. Mahony, and Rodolphe Sepulchre. 2009. Optimization Algorithms on Matrix Manifolds. Princeton University Press.
 
+### Meta-Algorithm for Stochastic Optimization
+* [ ] Diakonikolas, Ilias, Gautam Kamath, Daniel Kane, Jerry Li, Jacob Steinhardt, and Alistair Stewart. 2019. “Sever: A Robust Meta-Algorithm for Stochastic Optimization.” In Proceedings of the 36th International Conference on Machine Learning, edited by Kamalika Chaudhuri and Ruslan Salakhutdinov, 97:1596–1606. Proceedings of Machine Learning Research. Long Beach, California, USA: PMLR.
+
 ### Optimizers for Deep Neural Networks
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
 * [ ] Zhuang, Juntang, Tommy Tang, Yifan Ding, Sekhar C. Tatikonda, Nicha Dvornek, Xenophon Papademetris, and James Duncan. 2020. “Adabelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.” Advances in Neural Information Processing Systems 33. https://papers.nips.cc/paper/2020/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf.
