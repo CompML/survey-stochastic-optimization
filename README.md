@@ -29,7 +29,7 @@
 * [ ] Y. You, I. Gitman, and B. Ginsburg. “Scaling SGD batch size to 32K for Imagenet training”. Technical Report UCB/EECS-2017-156, University of California, Berkeley, 2017
 
 ### Stochastic Optimization on Riemannian Manifolds
-* [ ]Sato, Hiroyuki, Hiroyuki Kasai, and Bamdev Mishra. 2019. “Riemannian Stochastic Variance Reduced Gradient Algorithm with Retraction and Vector Transport.” SIAM Journal on Optimization: A Publication of the Society for Industrial and Applied Mathematics 29 (2): 1444–72.
+* [ ] Sato, Hiroyuki, Hiroyuki Kasai, and Bamdev Mishra. 2019. “Riemannian Stochastic Variance Reduced Gradient Algorithm with Retraction and Vector Transport.” SIAM Journal on Optimization: A Publication of the Society for Industrial and Applied Mathematics 29 (2): 1444–72.
 * [ ] Fong, Robert Simon, and Peter Tino. 2019. “Extended Stochastic Derivative-Free Optimization on Riemannian Manifolds.” In Proceedings of the Genetic and Evolutionary Computation Conference Companion, 257–58. GECCO ’19. New York, NY, USA: Association for Computing Machinery.
 * [ ] Zhou, Pan, Xiaotong Yuan, Shuicheng Yan, and Jiashi Feng. 2019. “Faster First-Order Methods for Stochastic Non-Convex Optimization on Riemannian Manifolds.” IEEE Transactions on Pattern Analysis and Machine Intelligence PP (August). https://doi.org/10.1109/TPAMI.2019.2933841.
 * [ ] Bécigneul, Gary, and Octavian-Eugen Ganea. 2018. “Riemannian Adaptive Optimization Methods.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/1810.00760.
