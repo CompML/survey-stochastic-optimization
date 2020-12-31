@@ -47,6 +47,7 @@
 * [ ] Eftimov, Tome, and Peter Korošec. 2019. “Identifying Practical Significance through Statistical Comparison of Meta-Heuristic Stochastic Optimization Algorithms.” Applied Soft Computing 85 (December): 105862.
 
 ### Optimizers for Deep Neural Networks
+* [ ] Shah, Vatsal, Xiaoxia Wu, and Sujay Sanghavi. 2020. “Choosing the Sample with Lowest Loss Makes SGD Robust.” arXiv [stat.ML]. arXiv. http://arxiv.org/abs/2001.03316.
 * [ ] Li, Mingchen, Mahdi Soltanolkotabi, and Samet Oymak. 2020. “Gradient Descent with Early Stopping Is Provably Robust to Label Noise for Overparameterized Neural Networks.” In Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, edited by Silvia Chiappa and Roberto Calandra, 108:4313–24. Proceedings of Machine Learning Research. Online: PMLR.
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
 * [ ] Zhuang, Juntang, Tommy Tang, Yifan Ding, Sekhar C. Tatikonda, Nicha Dvornek, Xenophon Papademetris, and James Duncan. 2020. “Adabelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.” Advances in Neural Information Processing Systems 33. https://papers.nips.cc/paper/2020/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf.
