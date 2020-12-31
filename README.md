@@ -47,11 +47,11 @@
 * [ ] Eftimov, Tome, and Peter Korošec. 2019. “Identifying Practical Significance through Statistical Comparison of Meta-Heuristic Stochastic Optimization Algorithms.” Applied Soft Computing 85 (December): 105862.
 
 ### Optimizers for Deep Neural Networks
+* [ ] Li, Mingchen, Mahdi Soltanolkotabi, and Samet Oymak. 2020. “Gradient Descent with Early Stopping Is Provably Robust to Label Noise for Overparameterized Neural Networks.” In Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, edited by Silvia Chiappa and Roberto Calandra, 108:4313–24. Proceedings of Machine Learning Research. Online: PMLR.
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
 * [ ] Zhuang, Juntang, Tommy Tang, Yifan Ding, Sekhar C. Tatikonda, Nicha Dvornek, Xenophon Papademetris, and James Duncan. 2020. “Adabelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.” Advances in Neural Information Processing Systems 33. https://papers.nips.cc/paper/2020/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf.
 * [X] Qian, Qian, and Xiaoyuan Qian. 2019. “The Implicit Bias of Adagrad on Separable Data.” Advances in Neural Information Processing Systems 32: 7761–69.
 * [X] Zou, Fangyu, Li Shen, Zequn Jie, Weizhong Zhang, and Wei Liu. 2019. “A Sufficient Condition for Convergences of Adam and Rmsprop.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 11127–35. openaccess.thecvf.com.
-* [ ] Diakonikolas, Ilias, Gautam Kamath, Daniel Kane, Jerry Li, Jacob Steinhardt, and Alistair Stewart. 2019. “Sever: A Robust Meta-Algorithm for Stochastic Optimization.” In Proceedings of the 36th International Conference on Machine Lear
 * [ ] Zhang, Z. 2018. “Improved Adam Optimizer for Deep Neural Networks.” In 2018 IEEE/ACM 26th International Symposium on Quality of Service (IWQoS), 1–2. ieeexplore.ieee.org.
 * [ ] Sashank J. Reddi, Satyen Kale, and Sanjiv Kumar. On the convergence of Adam and beyond. In International Conference on Learning Representations, 2018.
 * [ ] Dongruo Zhou, Yiqi Tang, Ziyan Yang, Yuan Cao, and Quanquan Gu. On the convergence of adaptive gradient methods for nonconvex optimization. arXiv preprint arXiv:1808.05671, 2018.
