@@ -24,6 +24,7 @@
 * [ ] K. Chaudhuri, Y. Freund, and D. J. Hsu. “A Parameter-Free Hedging Algorithm”. In: Advances in neural information processing systems. 2009, pp. 297–305
 
 ### Optimization Heuristics Related to Parameter-free Algorithms
+* [ ] You, Yang, Yuhui Wang, Huan Zhang, Zhao Zhang, James Demmel, and Cho-Jui Hsieh. 2020. “The Limit of the Batch Size.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2006.08517.
 * [X] J. Bernstein, A. Vahdat, Y. Yue, and M.-Y. Liu. “On the distance between two neural networks and the stability of learning”. In: arXiv:2002.03432. 2020
 * [X] Y. You, Z. Zhang, C.-J. Hsieh, J. Demmel, and K. Keutzer. “ImageNet training in minutes”. In: Proc. of the 47th International Conference on Parallel Processing. 2018
 * [ ] Y. You, I. Gitman, and B. Ginsburg. “Scaling SGD batch size to 32K for Imagenet training”. Technical Report UCB/EECS-2017-156, University of California, Berkeley, 2017
@@ -48,7 +49,6 @@
 
 ### Optimizers for Deep Neural Networks
 * [X] Shah, Vatsal, Xiaoxia Wu, and Sujay Sanghavi. 2020. “Choosing the Sample with Lowest Loss Makes SGD Robust.” arXiv [stat.ML]. arXiv. http://arxiv.org/abs/2001.03316.
-* [ ] You, Yang, Yuhui Wang, Huan Zhang, Zhao Zhang, James Demmel, and Cho-Jui Hsieh. 2020. “The Limit of the Batch Size.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2006.08517.
 * [ ] Johnson, Tyler, Pulkit Agrawal, Haijie Gu, and Carlos Guestrin. 2020. “AdaScale SGD: A User-Friendly Algorithm for Distributed Training.” In International Conference on Machine Learning, 4911–20. PMLR.
 * [ ] Li, Mingchen, Mahdi Soltanolkotabi, and Samet Oymak. 2020. “Gradient Descent with Early Stopping Is Provably Robust to Label Noise for Overparameterized Neural Networks.” In Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, edited by Silvia Chiappa and Roberto Calandra, 108:4313–24. Proceedings of Machine Learning Research. Online: PMLR.
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
