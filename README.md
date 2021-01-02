@@ -24,7 +24,7 @@
 * [ ] K. Chaudhuri, Y. Freund, and D. J. Hsu. “A Parameter-Free Hedging Algorithm”. In: Advances in neural information processing systems. 2009, pp. 297–305
 
 ### Optimization Heuristics Related to Parameter-free Algorithms
-* [ ] You, Yang, Yuhui Wang, Huan Zhang, Zhao Zhang, James Demmel, and Cho-Jui Hsieh. 2020. “The Limit of the Batch Size.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2006.08517.
+* [] You, Yang, Yuhui Wang, Huan Zhang, Zhao Zhang, James Demmel, and Cho-Jui Hsieh. 2020. “The Limit of the Batch Size.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2006.08517.
 * [X] J. Bernstein, A. Vahdat, Y. Yue, and M.-Y. Liu. “On the distance between two neural networks and the stability of learning”. In: arXiv:2002.03432. 2020
 * [X] Y. You, Z. Zhang, C.-J. Hsieh, J. Demmel, and K. Keutzer. “ImageNet training in minutes”. In: Proc. of the 47th International Conference on Parallel Processing. 2018
 * [ ] Y. You, I. Gitman, and B. Ginsburg. “Scaling SGD batch size to 32K for Imagenet training”. Technical Report UCB/EECS-2017-156, University of California, Berkeley, 2017
