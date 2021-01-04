@@ -7,6 +7,7 @@
 ## Awesome Stochastic Optimization
 
 ### Parameter-free Optimization for Deep Learning
+* [X] Johnson, Tyler, Pulkit Agrawal, Haijie Gu, and Carlos Guestrin. 2020. “AdaScale SGD: A User-Friendly Algorithm for Distributed Training.” In International Conference on Machine Learning, 4911–20. PMLR.
 * [ ] Cutkosky, Ashok. 2020. “Parameter-Free, Dynamic, and Strongly-Adaptive Online Learning.” In Proceedings of the 37th International Conference on Machine Learning, edited by Hal Daumé Iii and Aarti Singh, 119:2250–59. Proceedings of Machine Learning Research. Virtual: PMLR.
 * [ ] A. Cutkosky and T. Sarlos. “Matrix-Free Preconditioning in Online Learning”. In: Proc. of International Conference on Machine Learning. 2019
 * [X] F. Orabona and T. Tommasi. “Training Deep Networks without Learning Rates Through Coin Betting”. In: Advances in Neural Information Processing Systems 30. 2017
@@ -50,7 +51,6 @@
 
 ### Optimizers for Deep Neural Networks
 * [X] Shah, Vatsal, Xiaoxia Wu, and Sujay Sanghavi. 2020. “Choosing the Sample with Lowest Loss Makes SGD Robust.” arXiv [stat.ML]. arXiv. http://arxiv.org/abs/2001.03316.
-* [ ] Johnson, Tyler, Pulkit Agrawal, Haijie Gu, and Carlos Guestrin. 2020. “AdaScale SGD: A User-Friendly Algorithm for Distributed Training.” In International Conference on Machine Learning, 4911–20. PMLR.
 * [ ] Li, Mingchen, Mahdi Soltanolkotabi, and Samet Oymak. 2020. “Gradient Descent with Early Stopping Is Provably Robust to Label Noise for Overparameterized Neural Networks.” In Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, edited by Silvia Chiappa and Roberto Calandra, 108:4313–24. Proceedings of Machine Learning Research. Online: PMLR.
 * [X] Foret, Pierre, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2020. “Sharpness-Aware Minimization for Efficiently Improving Generalization.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2010.01412.
 * [ ] Zhuang, Juntang, Tommy Tang, Yifan Ding, Sekhar C. Tatikonda, Nicha Dvornek, Xenophon Papademetris, and James Duncan. 2020. “Adabelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.” Advances in Neural Information Processing Systems 33. https://papers.nips.cc/paper/2020/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf.
